@@ -1,0 +1,9 @@
+- id: speeches
+  description: Some of the greatest words ever spoken.
+  image: img/blog-cover.jpg
+- id: Software
+  description: Open source, tips 'n tricks 'n stuff
+  image: img/blog-cover.jpg
+- id: Science
+  description: My scientific activity
+  image: img/blog-cover.jpg

@@ -1,0 +1,17 @@
+- id: Matteo
+  avatar: avatars/ghost.png
+  bio: Astronomer, minstrel, Italian, et al.
+  twitter: matteobachetti
+  facebook: matteobachetti
+  website: http://www.matteobachetti.it
+  location: Pasadena, CA
+  profile_image: img/MB.png
+  orcid: img/ORCID.png
+#- id: Another Author
+#  avatar: avatars/ghost.png
+#  bio: This is another test author with a profile background image
+#  twitter: TryGhost
+#  facebook: ghost
+#  website: https://ghost.org/
+#  location: On a plane
+#  profile_image: img/alex-knight-326705-unsplash.jpg
