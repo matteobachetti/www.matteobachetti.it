@@ -46,7 +46,7 @@ const About: React.FunctionComponent = () => (
 I'm particularly interested in the measurements we can obtain of these objects (their mass, their dimensions, their magnetic fields where relevant) by looking at their X-ray signals. These are usually produced during a process called accretion, when matter from a nearby star is captured by the compact object, and is heated up to millions of degrees while approaching it. This very hot matter emits most of its luminosity in the X-rays. I'm also interested in the study of the same sources from their signals in the radio band, since accretion is known to produce emission in a wide range of wavelengths.
 </p>
         <p>
-I'm in the Science Team and the Science Commissioning and Calibration Team of the NuSTAR satellite, and in the Astronomical Validation Team of the Sardinia Radio Telescope.
+I'm in the Science Team and the Science Commissioning and Calibration Team of the NuSTAR satellite, in the Astronomical Validation Team of the Sardinia Radio Telescope, in the Instrument team of the future IXPE SMEX mission and in the Advanced Software team for Athena/X-IFU.
 </p>
         <p>
 In this website you will find more details of my studies, plus something totally unrelated. Enjoy :)
